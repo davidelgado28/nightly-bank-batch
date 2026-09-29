@@ -1,8 +1,3 @@
-******************************************************************
-      * Author: Mainframe Expert Architect                             *
-      * Purpose: Nightly Banking Batch Reconciliation System           *
-      * Compile: cobc -x -free reconcil.cbl (or fixed format)          *
-      ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. RECONCIL.
       *
